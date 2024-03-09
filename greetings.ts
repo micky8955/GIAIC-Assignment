@@ -1,6 +1,6 @@
-let guestList:string[];
-guestList=['"Ahmed"','"Ahad"','"Ali"','"Ibraheem"'];
-console.log("Asslamo Alaikum!",guestList[0],",I hope you are fine!");
-console.log("Asslamo Alaikum!",guestList[1],",I hope you are fine!");
-console.log("Asslamo Alaikum!",guestList[2],",I hope you are fine!");
-console.log("Asslamo Alaikum!",guestList[3],",I hope you are fine!");
+let relatives:string[];
+relatives=['"Ahmed"','"Ahad"','"Ali"','"Ibraheem"'];
+console.log("Asslamo Alaikum!",relatives[0],",I hope you are fine!");
+console.log("Asslamo Alaikum!",relatives[1],",I hope you are fine!");
+console.log("Asslamo Alaikum!",relatives[2],",I hope you are fine!");
+console.log("Asslamo Alaikum!",relatives[3],",I hope you are fine!");
